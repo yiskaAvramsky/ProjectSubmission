@@ -19,5 +19,9 @@ login:
 רשימת המוצרים
 ![צילום מסך 2024-06-06 173402](https://github.com/yiskaAvramsky/ProjectSubmission/assets/145584571/5f18eb03-d8d2-4689-aab1-e6dd403c0b33)
 הזמנות משתמש נוכחי
+![צילום מסך 2024-06-06 173754](https://github.com/yiskaAvramsky/ProjectSubmission/assets/145584571/0871e755-84ee-4f69-aba8-2e312e591cda)
+סל קניות
+
+
 
 
