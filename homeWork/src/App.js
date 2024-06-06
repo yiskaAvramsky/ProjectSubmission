@@ -1,10 +1,10 @@
 import './App.css';
-import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
-import Creditional from './components/finalProject/Creditional'
-import SignIn from './components/finalProject/features/user/SignIn'
-import AdminNav from './components/finalProject/AdminNav'
-import UserNav from './components/finalProject/UserNav';
-import OrderSummary from './components/finalProject/features/user/OrderSummary'
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Creditional from './components/final_project/Creditional'
+import SignIn from './components/final_project/features/user/SignIn'
+import AdminNav from './components/final_project/AdminNav'
+import UserNav from './components/final_project/UserNav';
+import OrderSummary from './components/final_project/features/user/OrderSummary'
 
 function App() {
   return (

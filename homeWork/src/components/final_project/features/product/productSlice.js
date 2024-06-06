@@ -58,8 +58,9 @@ export const productSlice = createSlice({
             })
 
             .addCase(deleteOneProduct.fulfilled, (state, { payload }) => {
-                let index = state.arrProduct.findIndex(x => x.id == payload);
-                state.arrProduct.slice(index, 1);
+                // let index = state.arrProduct.findIndex(x => x.id == payload);
+                // state.arrProduct.slice(index, 1);
+                state.arrProduct=state.arrProduct.filter(p=>p.id!==payload);
             })
     }
 })

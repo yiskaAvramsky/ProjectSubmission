@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 const fs = require('fs');
 
 function get(req, res) {

@@ -1,1 +1,172 @@
-[{"name":"SOUs","description":"biutiful","imgUrl":"/images/por1.jpg","price":"1005","color":"pink","company":"confort","id":"1"},{"id":3,"name":"Loveseat","description":"2 ספות עם כריות","imgUrl":"/images/por7.jpg","color":"brown","price":5000,"company":"comfort"},{"id":4,"name":"Sectional sofa","description":"ספה פינתית","imgUrl":"/images/por8.jpg","color":"brown","price":8000,"company":"comfort"},{"id":5,"name":"Futon","description":"ספות חלומיות למרפסת","imgUrl":"/images/por9.jpg","color":"brown","price":5700,"company":"comfort"},{"id":6,"name":"Chesterfield sofa","description":"ספת מעצבים","imgUrl":"/images/por10.jpg","color":"brown","price":2800,"company":"comfort"},{"id":7,"name":"ROUND SOFA","description":"ספה בסגנון יחודי","imgUrl":"/images/por11.jpg","color":"brown","price":3900,"company":"comfort"},{"id":8,"name":"Settee","description":"סט ספות לחצר","imgUrl":"/images/por12.jpg","color":"brown","price":4000,"company":"comfort"},{"id":9,"name":"Chaise lounge","description":"ספות הבית","imgUrl":"/images/por13.jpg","color":"brown","price":5880,"company":"comfort"},{"id":10,"name":"Lawson sofa","description":"ספסלי מעצבים","imgUrl":"/images/por14.jpg","color":"brown","price":5690,"company":"comfort"},{"id":11,"name":"Beautiful sofa","description":"מעניקה נוחות ומראה מודרני","imgUrl":"/images/por15.jpg","color":"brown","price":5800,"company":"comfort"},{"id":12,"name":"Cabriole sofa:","description":"ספה שמשרה מראה קלאסי ואותנטי","imgUrl":"/images/por16.jpg","color":"brown","price":2010,"company":"comfort"},{"id":13,"name":"Camelback sofa","description":" מקורית בעיקרה לעיצוב המודרני","imgUrl":"/images/por17.jpg","color":"brown","price":5400,"company":"comfort"},{"id":14,"name":"Tuxedo sofa","description":"ספת 5 מושבים","imgUrl":"/images/por18.jpg","color":"brown","price":7100,"company":"comfort"},{"id":15,"name":"Daybed","description":"ספה נוחה במיולד","imgUrl":"/images/por19.jpg","color":"brown","price":6300,"company":"comfort"},{"id":16,"name":"Settee","description":"ספה אורטופדית","imgUrl":"/images/por20.jpg","color":"brown","price":1500,"company":"comfort"},{"id":17,"name":"SEA BED","description":"סט ספות יפות במיוחד","imgUrl":"/images/por21.jpg","color":"brown","price":8500,"company":"comfort"},{"id":18,"name":"Bean bag chair","description":"ספות שמשרות רוגע","imgUrl":"/images/por22.jpg","color":"brown","price":5200,"company":"comfort"},{"id":19,"name":"Divan","description":"ספות משולבות","imgUrl":"/images/por23.jpg","color":"brown","price":2500,"company":"comfort"},{"id":20,"name":"Ottoman","description":"ספה מפנקת","imgUrl":"/images/por24.jpg","color":"brown","price":2000,"company":"comfort"}]
+[
+    {
+        "name": "SOUs",
+        "description": "biutiful",
+        "imgUrl": "/images/por1.jpg",
+        "price": 1001,
+        "color": "pink",
+        "id": "1"
+    },
+    {
+        "id": 3,
+        "name": "Loveseat",
+        "description": "2 ספות עם כריות",
+        "imgUrl": "/images/por7.jpg",
+        "color": "brown",
+        "price": 5000,
+        "company": "comfort"
+    },
+    {
+        "id": 4,
+        "name": "Sectional sofa",
+        "description": "ספה פינתית",
+        "imgUrl": "/images/por8.jpg",
+        "color": "brown",
+        "price": 8000,
+        "company": "comfort"
+    },
+    {
+        "id": 5,
+        "name": "Futon",
+        "description": "ספות חלומיות למרפסת",
+        "imgUrl": "/images/por9.jpg",
+        "color": "brown",
+        "price": 5700,
+        "company": "comfort"
+    },
+    {
+        "id": 6,
+        "name": "Chesterfield sofa",
+        "description": "ספת מעצבים",
+        "imgUrl": "/images/por10.jpg",
+        "color": "brown",
+        "price": 2800,
+        "company": "comfort"
+    },
+    {
+        "id": 7,
+        "name": "ROUND SOFA",
+        "description": "ספה בסגנון יחודי",
+        "imgUrl": "/images/por11.jpg",
+        "color": "brown",
+        "price": 3900,
+        "company": "comfort"
+    },
+    {
+        "id": 8,
+        "name": "Settee",
+        "description": "סט ספות לחצר",
+        "imgUrl": "/images/por12.jpg",
+        "color": "brown",
+        "price": 4000,
+        "company": "comfort"
+    },
+    {
+        "id": 9,
+        "name": "Chaise lounge",
+        "description": "ספות הבית",
+        "imgUrl": "/images/por13.jpg",
+        "color": "brown",
+        "price": 5880,
+        "company": "comfort"
+    },
+    {
+        "id": 10,
+        "name": "Lawson sofa",
+        "description": "ספסלי מעצבים",
+        "imgUrl": "/images/por14.jpg",
+        "color": "brown",
+        "price": 5690,
+        "company": "comfort"
+    },
+    {
+        "id": 11,
+        "name": "Beautiful sofa",
+        "description": "מעניקה נוחות ומראה מודרני",
+        "imgUrl": "/images/por15.jpg",
+        "color": "brown",
+        "price": 5800,
+        "company": "comfort"
+    },
+    {
+        "id": 12,
+        "name": "Cabriole sofa:",
+        "description": "ספה שמשרה מראה קלאסי ואותנטי",
+        "imgUrl": "/images/por16.jpg",
+        "color": "brown",
+        "price": 2010,
+        "company": "comfort"
+    },
+    {
+        "id": 13,
+        "name": "Camelback sofa",
+        "description": " מקורית בעיקרה לעיצוב המודרני",
+        "imgUrl": "/images/por17.jpg",
+        "color": "brown",
+        "price": 5400,
+        "company": "comfort"
+    },
+    {
+        "id": 14,
+        "name": "Tuxedo sofa",
+        "description": "ספת 5 מושבים",
+        "imgUrl": "/images/por18.jpg",
+        "color": "brown",
+        "price": 7100,
+        "company": "comfort"
+    },
+    {
+        "id": 15,
+        "name": "Daybed",
+        "description": "ספה נוחה במיולד",
+        "imgUrl": "/images/por19.jpg",
+        "color": "brown",
+        "price": 6300,
+        "company": "comfort"
+    },
+    {
+        "id": 16,
+        "name": "Settee",
+        "description": "ספה אורטופדית",
+        "imgUrl": "/images/por20.jpg",
+        "color": "brown",
+        "price": 1500,
+        "company": "comfort"
+    },
+    {
+        "id": 17,
+        "name": "SEA BED",
+        "description": "סט ספות יפות במיוחד",
+        "imgUrl": "/images/por21.jpg",
+        "color": "brown",
+        "price": 8500,
+        "company": "comfort"
+    },
+    {
+        "id": 18,
+        "name": "Bean bag chair",
+        "description": "ספות שמשרות רוגע",
+        "imgUrl": "/images/por22.jpg",
+        "color": "brown",
+        "price": 5200,
+        "company": "comfort"
+    },
+    {
+        "id": 19,
+        "name": "Divan",
+        "description": "ספות משולבות",
+        "imgUrl": "/images/por23.jpg",
+        "color": "brown",
+        "price": 2500,
+        "company": "comfort"
+    },
+    {
+        "id": 20,
+        "name": "Ottoman",
+        "description": "ספה מפנקת",
+        "imgUrl": "/images/por24.jpg",
+        "color": "brown",
+        "price": 2000,
+        "company": "comfort"
+    }
+]

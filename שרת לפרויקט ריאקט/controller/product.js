@@ -90,9 +90,6 @@ exports.post = (req, res) => {
         let products = JSON.parse(data);
         let product = req.body;
 
-        // הוספת נתיב התמונה למוצר
-        product.image = req.file.path;
-
         // הוספת איידי למוצר החדש
         product.id = products.length + 1;
 

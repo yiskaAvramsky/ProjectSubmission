@@ -36,7 +36,7 @@ app.get('/person', (req, res) => {
 
 // app.use("/student", student);
 
-app.use('/uploads',express.static('uploads'))
+// app.use('/uploads',express.static('uploads'))
 app.use("/product", product);
 app.use("/order", order);
 app.use("/user", user);

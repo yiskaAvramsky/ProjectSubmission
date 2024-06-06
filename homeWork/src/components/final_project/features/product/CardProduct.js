@@ -38,7 +38,10 @@ export default function MediaCard({ oneProduct,fromWhere }) {
 
   const dell = () => {
     disputch(deleteOneProduct(oneProduct.id));
-  }
+    alert("The deletion was successful!!!")
+}
+
+
 
   const addMeToCart = () => {
     let product = listProduct.filter(p => p.id == oneProduct.id);
@@ -113,7 +116,7 @@ export default function MediaCard({ oneProduct,fromWhere }) {
                 <TextField id="outlined-basic" defaultValue={oneProduct.name} label="name product" variant="outlined" onChange={(e) => p.name = e.target.value}></TextField>
                 <br></br>
                 <br></br>
-                <TextField id="outlined-basic" defaultValue={oneProduct.price} label="price" variant="outlined" onChange={(e) => p.price = e.target.value}></TextField>
+                <TextField id="outlined-basic" defaultValue={oneProduct.price} label="price" variant="outlined" onChange={(e) => p.price = parseInt(e.target.value)}></TextField>
                 <br></br>
                 <br></br>
                 <TextField id="outlined-basic" defaultValue={oneProduct.color} label="color" variant="outlined" onChange={(e) => p.color = e.target.value}></TextField>

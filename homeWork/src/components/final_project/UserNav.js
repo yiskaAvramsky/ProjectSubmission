@@ -54,7 +54,6 @@ export default function UserNav() {
     const nav = useNavigate();
 
     const userLogOut = () => {
-        debugger;
         dis(logOut());
         nav('/Creditional');
     }

@@ -15,7 +15,7 @@ const FillProduct = () => {
     }
 
 
-    const addP = async () => {
+    const addP =() => {
          disputch(addOneProduct(product));
          alert("The product has been successfully added!");
     }
@@ -59,9 +59,6 @@ const FillProduct = () => {
             <br></br>
             <br></br>
             <TextField id="outlined-basic" label="company" variant="outlined" onChange={(e) => product.company = e.target.value}></TextField>
-            <br></br>
-            <br></br>
-            {/* <input type="file"  onChange={(e) => file(e.target.files[0])} /> */}
             <br></br>
             <br></br>
             {/* <input type="file" onChange={choiceCreation}/><br/>
