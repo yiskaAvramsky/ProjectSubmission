@@ -23,4 +23,6 @@ login:
 סל קניות
 ![צילום מסך 2024-06-06 174007](https://github.com/yiskaAvramsky/ProjectSubmission/assets/145584571/17fb0844-b5ac-4e23-91ab-c63df5792999)
 מוצר בסל קניות
+![צילום מסך 2024-06-06 174138](https://github.com/yiskaAvramsky/ProjectSubmission/assets/145584571/4bc51f38-fa6a-485e-b882-d6175c67521b)
+
 
