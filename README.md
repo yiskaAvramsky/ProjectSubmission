@@ -1,8 +1,11 @@
 חנות של ספות
 שם החנות הוא IDesign
+סיסמת מנהל:admin
+סיסיא עבור משתמש בודד:1212
 צילומי מסך:
-מסך הרשמה
 
+מסך הרשמה
+![צילום מסך 2024-06-06 174527](https://github.com/yiskaAvramsky/ProjectSubmission/assets/145584571/8e138408-a63e-4d60-8427-5b50203803e5)
 מסך כניסה
 ![צילום מסך 2024-06-06 170634](https://github.com/yiskaAvramsky/ProjectSubmission/assets/145584571/a18dd60e-c191-449d-b72b-b6295ac96a22)
 
