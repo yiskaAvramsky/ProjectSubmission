@@ -1,8 +1,9 @@
 חנות של ספות
 שם החנות הוא IDesign
 צילומי מסך:
-login:
+מסך הרשמה
 
+מסך כניסה
 ![צילום מסך 2024-06-06 170634](https://github.com/yiskaAvramsky/ProjectSubmission/assets/145584571/a18dd60e-c191-449d-b72b-b6295ac96a22)
 
 כניסת מנהל:
@@ -11,7 +12,7 @@ login:
 הוספת מוצר
 ![צילום מסך 2024-06-06 172729](https://github.com/yiskaAvramsky/ProjectSubmission/assets/145584571/19bbb462-aa22-4ac5-aa59-b88dc7b0e1a6)
 עדכון מוצר
-
+![צילום מסך 2024-06-06 174348](https://github.com/yiskaAvramsky/ProjectSubmission/assets/145584571/73ec2eee-ed39-477e-86a5-2f79b7137449)
 רשימת כל ההזמנות
 ![צילום מסך 2024-06-06 174233](https://github.com/yiskaAvramsky/ProjectSubmission/assets/145584571/a262da3b-d6c6-4d31-8f14-410f589091db)
 רשימת כל המשתמשים
