@@ -21,7 +21,6 @@ login:
 הזמנות משתמש נוכחי
 ![צילום מסך 2024-06-06 173754](https://github.com/yiskaAvramsky/ProjectSubmission/assets/145584571/0871e755-84ee-4f69-aba8-2e312e591cda)
 סל קניות
-
-
-
+![צילום מסך 2024-06-06 174007](https://github.com/yiskaAvramsky/ProjectSubmission/assets/145584571/17fb0844-b5ac-4e23-91ab-c63df5792999)
+מוצר בסל קניות
 
