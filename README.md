@@ -1,5 +1,8 @@
 # sofa shop
 sofaShop is an e-commerce website for selling sports products, featuring a client-side built with React and a server-side built with Node.js. The project provides a modern and user-friendly experience, with an intuitive and easy-to-navigate interface.
+# Key Features:
+Browse a wide range of sports products. Add items to the shopping cart and place orders. User and order management system. Search and filter products by name product.
+
 שם החנות הוא IDesign
 סיסמת מנהל:admin
 סיסיא עבור משתמש בודד:1212
