@@ -1,4 +1,4 @@
-#sofa shop
+# sofa shop
 שם החנות הוא IDesign
 סיסמת מנהל:admin
 סיסיא עבור משתמש בודד:1212
