@@ -11,10 +11,11 @@ Password for admin login is admin
 Password for user login is 1212
 
 # Screenshots:
-
 sign in
+
 ![צילום מסך 2024-06-06 174527](https://github.com/yiskaAvramsky/ProjectSubmission/assets/145584571/8e138408-a63e-4d60-8427-5b50203803e5)
 login
+
 ![צילום מסך 2024-06-06 170634](https://github.com/yiskaAvramsky/ProjectSubmission/assets/145584571/a18dd60e-c191-449d-b72b-b6295ac96a22)
 ## User Views
 list products
