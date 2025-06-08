@@ -54,7 +54,7 @@ const Creditional = () => {
     <br></br> <br></br>
     <br></br> <br></br>
     <br></br>
-    <TextField id="outlined-basic" label="user name" variant="outlined"></TextField>
+    <TextField id="outlined-basic" label="User name" variant="outlined"></TextField>
     <br></br>
     <br></br>
     <TextField type="password" id="outlined-basic" label="Password" variant="outlined" onChange={(e) => user.password = e.target.value}></TextField>
