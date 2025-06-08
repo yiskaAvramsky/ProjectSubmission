@@ -28,7 +28,7 @@ const MyCart = () => {
 
     return (
         <>
-            <h1>My Cart</h1>
+            <h1>My Cart!</h1>
             <AccessibleTable listProduct={listProduct}></AccessibleTable>
             <br />
             <label type="text" variant="outlined" >total Price:{totalPrice}</label>
