@@ -3,7 +3,7 @@ name: Deploy to EC2
 on:
   push:
     branches:
-      - master # או master, תלוי בשם הבראנץ' הראשי שלך
+      - main # או master, תלוי בשם הבראנץ' הראשי שלך
 
 jobs:
   build-and-deploy:
